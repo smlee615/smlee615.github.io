@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: This is the person homepage of Stephen-Michael Lee
+description: TBA
+plugins:
+  - jemoji
